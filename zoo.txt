@@ -1,3 +1,5 @@
-Giraffe
+Elephant
+Deer
 Tiger
-Monkey
+Monky
+Lion
